@@ -1,12 +1,10 @@
 /.idea/
 /dist/
 /node_modules/
-/package-lock.json
-
-
+/package-open.json
 # Yarn >2.0.0
-.yarn/*
-!.yarn/releases
-!.yarn/plugins
-!.yarn/sdks
-!.yarn/versions
+.yarn/
+yarn/releases
+yarn/plugins
+yarn/sdks
+yarn/versions
